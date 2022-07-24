@@ -9,6 +9,5 @@ public class App {
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!   yeeeeeeee!" );
         System.out.println( "Hello World!   yeeeeeeee!" );
-        System.out.println( "Hello hot-fix!" );
     }
 }
